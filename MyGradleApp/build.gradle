@@ -1,0 +1,5 @@
+task display{
+doLast{
+println'6D Devops class'
+}
+}
